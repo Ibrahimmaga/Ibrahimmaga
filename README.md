@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ibrahim Maga
-- 👀 I’m interested in DevOps Engineering
-- 🌱 I’m currently learning Azure DevOps and Github actions 
-- 💞️ I’m looking to collaborate on monorepo deployment, beachball deployment,npm and nuget library
+- 👀 I’m DevOps Engineer
+- 🌱 I’m currently using Azure DevOps and Github actions 
+- 💞️ I’m looking to collaborate on monorepo deployment, beachball deployment,npm 7 and nuget library
 - 📫 How to reach me v-imaga@microsoft.com or imaga75@hotmail.com or (206) 841-5266
 
 <!---
